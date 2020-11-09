@@ -1,0 +1,319 @@
+        * {
+            margin: 0px;
+            padding: 0px;
+        }
+        
+        body {}
+        
+        .container {
+            width: 1140px;
+            margin: 0 auto;
+        }
+        
+        header {
+            background: #87509C;
+            padding: 25px 0px;
+            float: left;
+            width: 100%;
+        }
+        
+        .logo {
+            width: 30%;
+            float: left;
+        }
+        
+        .menu {
+            width: 70%;
+            float: left;
+        }
+        
+        nav ul {
+            list-style: none;
+        }
+        
+        nav ul li {
+            display: inline-block;
+            margin: 10px 39px;
+        }
+        
+        nav ul li a {
+            color: white;
+            text-decoration: none;
+            font-size: 22px;
+            text-align: center;
+        }
+        
+        .header-banner {
+            width: 65%;
+            margin: 0 auto;
+            padding: 90px 0px;
+            padding-top: 75PX;
+            padding-bottom: 100PX;
+        }
+        
+        .header-banner h2 {
+            color: white;
+            font-size: 32px;
+            text-align: center;
+            line-height: 34px;
+            letter-spacing: 1px;
+        }
+        
+        .btn-one {
+            background: #EB7D4B;
+            display: block;
+            margin: 4% auto;
+            color: white;
+            padding: 10px 24px;
+            border: none;
+            text-transform: uppercase;
+            font-size: 20px;
+            box-shadow: 0px 5px 3px #C86A40;
+        }
+        
+        .service {
+            background: #17C2A4;
+            padding: 25px 0px;
+            width: 100%;
+            float: left;
+        }
+        
+        .tittle {
+            text-align: center;
+            width: 60%;
+            margin: 0 auto;
+        }
+        
+        .tittle h2 {
+            font-size: 32px;
+            text-transform: uppercase;
+            margin: 10px 0px;
+        }
+        
+        .tittle span {
+            border-bottom: 3px solid black;
+            display: block;
+            width: 15%;
+            margin: 10 auto;
+        }
+        
+        .tittle p {
+            font-size: 18px;
+        }
+        
+        .service-feture {
+            padding: 15px 0px;
+            text-align: center;
+            width: 22%;
+            float: left;
+            margin-right: 4%;
+            padding-bottom: 60px;
+        }
+        
+        .service-feture:last-child {
+            margin-right: 0;
+        }
+        
+        .service img {}
+        
+        .service h2 {
+            color: white;
+            margin: 10px 0px;
+        }
+        
+        .service h6 {
+            color: white;
+            font-size: 16px;
+        }
+        
+        .portfolio {
+            background: #FFD099;
+            padding: 25px 0px;
+            width: 100%;
+            float: left;
+        }
+        
+        .tittle ul {
+            list-style: none;
+        }
+        
+        .tittle ul li {
+            display: inline-block;
+            margin: 12px 14px;
+        }
+        
+        .tittle ul li a {
+            background: #C7AC75;
+            padding: 4PX 8PX;
+            text-decoration: none;
+            color: white;
+            text-transform: uppercase;
+            font-size: 18px;
+        }
+        
+        .portfolio-one {
+            width: 48%;
+            float: left;
+        }
+        
+        .portfolio-one img {
+            margin-bottom: 20px;
+            margin-top: 20px;
+        }
+        
+        .portfolio {
+            width: 100%;
+            float: left;
+            padding: 25px opx;
+        }
+        
+        .btn-two {
+            background: #17C2A4;
+            display: block;
+            margin: 4% auto;
+            color: white;
+            padding: 10px 24px;
+            border: none;
+            text-transform: uppercase;
+            font-size: 20px;
+            box-shadow: 0px 5px 3px #0a715f;
+        }
+        
+        .about {
+            background: #D64680;
+            padding: 25px 0px;
+            width: 100%;
+            float: left;
+        }
+        
+        .about-feture {
+            padding: 25px 0px;
+            width: 48%;
+            float: left;
+        }
+        
+        .left {
+            width: 30%;
+            margin-right: 5%;
+            float: left;
+        }
+        
+        .left img {
+            width: 100%;
+        }
+        
+        .right {
+            width: 65%;
+            float: left;
+        }
+        
+        .about h2 {
+            color: white;
+        }
+        
+        .about p {
+            color: white;
+        }
+        
+        .about img {
+            width: 80%;
+        }
+        
+        .about-feture h1 {
+            color: white;
+        }
+        
+        .about-feture h5 {
+            font-size: 16px;
+        }
+        
+        .touch {
+            background: #434389;
+            padding: 25px 0px;
+            width: 100%;
+            float: left;
+        }
+        
+        .touch h2 {
+            color: white;
+        }
+        
+        .touch p {
+            color: white;
+            font-size: 16;
+        }
+        
+        .touch text-area {
+            width: 60%;
+            float: left;
+            margin: 0 auto;
+            color: #111141;
+        }
+        
+        .text-area {
+            text-align: center;
+        }
+        
+        .team {
+            background: #b2a8a8;
+            padding: 25px 0px;
+            width: 100%;
+            float: left;
+        }
+        
+        .team-feature {
+            padding: 15px 0px;
+            text-align: center;
+            width: 22%;
+            float: left;
+            margin: 0px 15px;
+            padding-bottom: 60px;
+        }
+        
+        .team-feature:last-child {
+            margin-right: 0;
+        }
+        
+        .team img {
+            width: 100%;
+        }
+        
+        .team h2 {
+            color: black;
+            margin: 10px 0px;
+        }
+        
+        .team h6 {
+            color: black;
+            font-size: 16px;
+        }
+        
+        .skill {
+            background: #f5dfd5;
+            padding: 25px 0px;
+            width: 100%;
+            float: left;
+        }
+        
+        .skill-feture {
+            padding: 15px 0px;
+            text-align: center;
+            width: 22%;
+            float: left;
+            margin: 0px 15px;
+            padding-bottom: 60px;
+        }
+        
+        .skill img {}
+        
+        .skill h2 {
+            color: black;
+            margin: 10px 0px;
+        }
+        
+        footer {
+            background: #2c2c84;
+            padding: 25px 0px;
+            width: 100%;
+            float: left;
+        }
